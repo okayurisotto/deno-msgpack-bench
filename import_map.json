@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@msgpack/msgpack": "https://esm.sh/v95/@msgpack/msgpack@2.8.0",
+    "@std/": "https://deno.land/std@0.157.0/"
+  },
+  "scopes": {}
+}
